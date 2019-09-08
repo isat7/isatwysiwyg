@@ -1,0 +1,23 @@
+{
+  "name": "wygsiwyg",
+  "version": "3.0.9",
+  "description": "easy to implement dynamic wygsiwyg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git remote add origin https://github.com/isatbalaji/wygsiwyg.git"
+  },
+  "keywords": [
+    "isat",
+    "wysiwyg"
+  ],
+  "author": "balaji i",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isat7/"
+  },
+  "homepage": "https://github.com/isat7/"
+}
